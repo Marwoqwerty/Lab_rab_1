@@ -1,3 +1,3 @@
 str1: 123
-str2: 123
+str2: goodbye
 str3: 123
